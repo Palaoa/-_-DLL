@@ -1,0 +1,41 @@
+﻿  qface.cpp
+d:\luo\faceveri\test\test\qface.cpp(311): warning C4101: “fd”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(319): warning C4101: “byteBitCount”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(318): warning C4101: “l”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(318): warning C4101: “j”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(318): warning C4101: “i”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(553): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\luo\faceveri\test\test\qface.cpp(461): warning C4101: “fd”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(467): warning C4101: “imageSize”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(1137): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\luo\faceveri\test\test\qface.cpp(1207): warning C4018: “<”: 有符号/无符号不匹配
+d:\luo\faceveri\test\test\qface.cpp(1215): warning C4018: “<”: 有符号/无符号不匹配
+d:\luo\faceveri\test\test\qface.cpp(1223): warning C4018: “<”: 有符号/无符号不匹配
+d:\luo\faceveri\test\test\qface.cpp(1269): warning C4018: “<”: 有符号/无符号不匹配
+d:\luo\faceveri\test\test\qface.cpp(1378): warning C4018: “<”: 有符号/无符号不匹配
+d:\luo\faceveri\test\test\qface.cpp(1411): warning C4018: “<”: 有符号/无符号不匹配
+d:\luo\faceveri\test\test\qface.cpp(1419): warning C4018: “<”: 有符号/无符号不匹配
+d:\luo\faceveri\test\test\qface.cpp(1553): warning C4101: “time2Qstring”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(1592): warning C4101: “h”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(1592): warning C4101: “w”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(1614): warning C4101: “x”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(1614): warning C4101: “h”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(1614): warning C4101: “w”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(2398): warning C4101: “nMin”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(2398): warning C4101: “nMax”: 未引用的局部变量
+d:\luo\faceveri\test\test\qface.cpp(2697): warning C4101: “source”: 未引用的局部变量
+  GaborRecMain.cpp
+d:\luo\faceveri\test\test\bpnn.h(60): warning C4005: “ABS”: 宏重定义
+  d:\luo\faceveri\test\test\extractgaborjet.h(54): note: 参见“ABS”的前一个定义
+d:\luo\faceveri\test\test\gaborrecmain.cpp(138): warning C4101: “graph2”: 未引用的局部变量
+d:\luo\faceveri\test\test\gaborrecmain.cpp(138): warning C4101: “graph1”: 未引用的局部变量
+d:\luo\faceveri\test\test\gaborrecmain.cpp(135): warning C4101: “im1”: 未引用的局部变量
+d:\luo\faceveri\test\test\gaborrecmain.cpp(138): warning C4101: “graph3”: 未引用的局部变量
+d:\luo\faceveri\test\test\gaborrecmain.cpp(136): warning C4101: “im2”: 未引用的局部变量
+d:\luo\faceveri\test\test\gaborrecmain.cpp(134): warning C4101: “i”: 未引用的局部变量
+d:\luo\faceveri\test\test\gaborrecmain.cpp(285): warning C4101: “fPos”: 未引用的局部变量
+d:\luo\faceveri\test\test\gaborrecmain.cpp(331): warning C4101: “i”: 未引用的局部变量
+  正在生成代码...
+d:\luo\faceveri\test\test\qface.cpp(562): warning C4715: “ReadBmpFile”: 不是所有的控件路径都返回值
+  Test.vcxproj -> D:\luo\FaceVeri\test\Debug\Test.exe
+  Test.vcxproj -> D:\luo\FaceVeri\test\Debug\Test.pdb (Partial PDB)
